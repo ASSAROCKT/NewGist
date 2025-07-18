@@ -1,136 +1,49 @@
 {
-  "title": "Tsumi to Batsu no Spica",
-  "description": "Hatori, a high school teacher leading an ordinary life, notices one day that his student, Spica Tsumugi, is being bullied. On a rainy day after school, Hatori finds himself alone with Tsumugi by chance. Hatori tells her, \"I'll do something about it!\" but Tsumugi gently takes his hand and says with a smile, \"Hatori-sensei, you're such a liar.\" Teacher and student... two people who should not get too close. This somewhat bewitching girl will dramatically change Hatori's ordinary life.",
-  "artist": "Inoryuu Hajime",
-  "author": "Seo Chishio",
-  "cover": "https://scyllacomics.xyz/storage/covers/68518da200031.jpg",
-  "likes": 49, // Example value, add actual data if available
-  "views": 260, // Example value, add actual data if available
-  "average_rating": 4.9, // Example value, calculate or add actual data if available
-  "total_ratings": 407, // Example value, add actual data if available
-  "update_schedule": "Sun Tue Thu Sat", // Add if you have a recurring schedule
-  "genres": ["Comedy", "Sports", "Slice of Life", "Adult"], // Example genres based on description
+  "title": "Olympia of Infidelity",
+  "description": "A dull, unreliable middle-aged salaryman, Tamaki Kuroudo, is treated as a hopeless old man by everyone.\n\nTeased about his pot belly, treated coldly by his daughter at home, and when he happens to glance at his wife’s phone, he sees suspicious call logs with one of her coworkers…\n\nAs he spends his pathetic days, his capable subordinate Ayase Mizuki  invites him to the equipment room. While helping her move some equipment, he accidentally touches her breast— and she records that very moment on video!!\n\nAfter work, he’s blackmailed with the video and taken to… of all places, a sports gym!?\n\nThe price of sexual harassment is… body transformation!?\n\nA secret muscle-training comedy he hides from his wife!!",
+  "artist": "Iwakuni Hirohito",
+  "author": "Iwakuni Hirohito",
+  "cover": "https://scyllacomics.xyz/storage/covers/68668e5257a43.jpg",
+  
+  "genres": ["Crime", "Drama", "Mystery", "Psychological", "Thriller"],
+  "themes": ["School Life", "Supernatural", "Survival"],
+  "demographic": "Seinen",
+
   "chapters": {
-    "18": {
-      "title": "Nameless Malice (7)",
+    "1": {
+      "title": "1",
       "volume": "",
-      "last_updated": "1750250278",
+      "last_updated": "1752662400",
       "groups": {
         "Aphrodite Scans": [
-          "https://files.catbox.moe/77omxw.png",
-          "https://files.catbox.moe/3ehedg.png",
-          "https://files.catbox.moe/kch6ub.png",
-          "https://files.catbox.moe/n7jbog.png",
-          "https://files.catbox.moe/er8to4.png",
-          "https://files.catbox.moe/5h01yd.png",
-          "https://files.catbox.moe/awtf8i.png",
-          "https://files.catbox.moe/u51r3x.png",
-          "https://files.catbox.moe/suah9b.png",
-          "https://files.catbox.moe/68fjx6.png",
-          "https://files.catbox.moe/6hu23l.png",
-          "https://files.catbox.moe/2wosos.png",
-          "https://files.catbox.moe/c8khxa.png",
-          "https://files.catbox.moe/xtbh13.png",
-          "https://files.catbox.moe/o02yzz.png",
-          "https://files.catbox.moe/ys1xan.png",
-          "https://files.catbox.moe/uaycp6.png",
-          "https://files.catbox.moe/bcah03.png",
-          "https://files.catbox.moe/dax21a.png",
-          "https://files.catbox.moe/yi5uxx.png",
-          "https://files.catbox.moe/x2jo0d.png",
-          "https://files.catbox.moe/lnjtd5.png",
-          "https://files.catbox.moe/e28eo8.png",
-          "https://files.catbox.moe/3smk33.png"
-        ]
-      }
-    },
-    "19": {
-      "title": "Nameless Malice (8)",
-      "volume": "",
-      "last_updated": "1750341342",
-      "groups": {
-        "Aphrodite Scans": [
-          "https://files.catbox.moe/5rjg1z.png",
-          "https://files.catbox.moe/jqftc1.png",
-          "https://files.catbox.moe/kxnrux.png",
-          "https://files.catbox.moe/u6xsjj.png",
-          "https://files.catbox.moe/fmlj3r.png",
-          "https://files.catbox.moe/0bpzdw.png",
-          "https://files.catbox.moe/6ui19e.png",
-          "https://files.catbox.moe/4jfo35.png",
-          "https://files.catbox.moe/m2ysxt.png",
-          "https://files.catbox.moe/nizyyd.png",
-          "https://files.catbox.moe/8sskpw.png",
-          "https://files.catbox.moe/g6416b.png",
-          "https://files.catbox.moe/n9tvp9.png",
-          "https://files.catbox.moe/u531kf.png",
-          "https://files.catbox.moe/5r42ta.png",
-          "https://files.catbox.moe/9q85vl.png",
-          "https://files.catbox.moe/spvm5g.png",
-          "https://files.catbox.moe/2wu2bv.png",
-          "https://files.catbox.moe/w08x8v.png",
-          "https://files.catbox.moe/m9qu6c.png"
-        ]
-      }
-    },
-    "20": {
-      "title": "The Nameless Murderer",
-      "volume": "",
-      "last_updated": "1752126721",
-      "groups": {
-        "Aphrodite Scans": [
-          "https://i.redd.it/d2ar7ksyjzbf1.png",
-          "https://i.redd.it/uns4dhuyjzbf1.png",
-          "https://i.redd.it/5n8q8qsyjzbf1.png",
-          "https://i.redd.it/y5bacnsyjzbf1.png",
-          "https://i.redd.it/drgebtsyjzbf1.png",
-          "https://i.redd.it/cu8dbovyjzbf1.png",
-          "https://i.redd.it/xnacxpsyjzbf1.png",
-          "https://i.redd.it/nt7mzxsyjzbf1.png",
-          "https://i.redd.it/j9vnyevyjzbf1.png",
-          "https://i.redd.it/ns0rw3tyjzbf1.png",
-          "https://i.redd.it/53tw46tyjzbf1.png",
-          "https://i.redd.it/2l9tp0tyjzbf1.png",
-          "https://i.redd.it/cw31nbvyjzbf1.png",
-          "https://i.redd.it/xegqn6tyjzbf1.png",
-          "https://i.redd.it/fwxf17tyjzbf1.png",
-          "https://i.redd.it/q7axubwyjzbf1.png",
-          "https://i.redd.it/exj1plvyjzbf1.png",
-          "https://i.redd.it/4zclpbwyjzbf1.png",
-          "https://i.redd.it/k39lz1tyjzbf1.png",
-          "https://i.redd.it/s39la2tyjzbf1.png",
-          "https://i.redd.it/0uuytke6kzbf1.png",
-          "https://i.redd.it/ou3j2je6kzbf1.png",
-          "https://i.redd.it/evsbnie6kzbf1.png",
-          "https://i.redd.it/485vcke6kzbf1.png"
-        ]
-      }
-    },
-    "21": {
-      "title": "Deadly Matchmaking (1)",
-      "volume": "",
-      "last_updated": "1752509757",
-      "groups": {
-        "Aphrodite Scans": [
-          "https://i.redd.it/85v1js8z6vcf1.png",
-          "https://i.redd.it/924mjt8z6vcf1.png",
-          "https://i.redd.it/zzft5v8z6vcf1.png",
-          "https://i.redd.it/viefjv8z6vcf1.png",
-          "https://i.redd.it/ieku4w8z6vcf1.png",
-          "https://i.redd.it/pxx60dbz6vcf1.png",
-          "https://i.redd.it/6oi4sz8z6vcf1.png",
-          "https://i.redd.it/dihl919z6vcf1.png",
-          "https://i.redd.it/yq37209z6vcf1.png",
-          "https://i.redd.it/ltl91jbz6vcf1.png",
-          "https://i.redd.it/s0zah99z6vcf1.png",
-          "https://i.redd.it/5zncxb9z6vcf1.png",
-          "https://i.redd.it/hlnr2a9z6vcf1.png",
-          "https://i.redd.it/yodqp89z6vcf1.png",
-          "https://i.redd.it/5z7hmd9z6vcf1.png",
-          "https://i.redd.it/24y73h9z6vcf1.png",
-          "https://i.redd.it/gvjphh9z6vcf1.png",
-          "https://i.redd.it/i9nymfcz6vcf1.png",
-          "https://i.redd.it/crn5di9z6vcf1.png"
+          "https://i.redd.it/siiyz44b2oaf1.png",
+          "https://i.redd.it/uj5mm54b2oaf1.png",
+          "https://i.redd.it/6mrp174b2oaf1.jpg",
+          "https://i.redd.it/0447g15b2oaf1.png",
+          "https://i.redd.it/renp3d4b2oaf1.png",
+          "https://i.redd.it/dszwvf4b2oaf1.png",
+          "https://i.redd.it/wu1bgc4b2oaf1.png",
+          "https://i.redd.it/bjrzem4b2oaf1.png",
+          "https://i.redd.it/xvo7725b2oaf1.png",
+          "https://i.redd.it/u5czzn4b2oaf1.png",
+          "https://i.redd.it/zvp6jo4b2oaf1.png",
+          "https://i.redd.it/szfllf7b2oaf1.png",
+          "https://i.redd.it/achx5o4b2oaf1.png",
+          "https://i.redd.it/9m97857b2oaf1.png",
+          "https://i.redd.it/9l5brk4b2oaf1.png",
+          "https://i.redd.it/4sw81b5b2oaf1.png",
+          "https://i.redd.it/sn102a7b2oaf1.png",
+          "https://i.redd.it/9ytolr4b2oaf1.png",
+          "https://i.redd.it/y0jphq4b2oaf1.png",
+          "https://i.redd.it/g38rhw4b2oaf1.png",
+          "https://i.redd.it/9b1ey2mg2oaf1.png",
+          "https://i.redd.it/xk4inbmg2oaf1.png",
+          "https://i.redd.it/tll2x2mg2oaf1.png",
+          "https://i.redd.it/1hbbl5mg2oaf1.png",
+          "https://i.redd.it/ibkbihng2oaf1.png",
+          "https://i.redd.it/rrnyu7mg2oaf1.png",
+          "https://i.redd.it/6lz2h4mg2oaf1.png",
+          "https://i.redd.it/wv27a6mg2oaf1.png"
         ]
       }
     }
